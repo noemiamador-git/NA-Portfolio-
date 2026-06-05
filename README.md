@@ -45,24 +45,6 @@ portfolio/
 - GitHub: [noemiamador-git](https://github.com/noemiamador-git)
 - Instagram: [@noeminoemo](https://www.instagram.com/noeminoemo/)
 
-## GitHub Pages
-
-This is a static website and can be hosted with GitHub Pages.
-
-To publish:
-
-1. Go to the repository settings.
-2. Click **Pages**.
-3. Choose the `main` branch.
-4. Choose the root folder.
-5. Save.
-
-Your site will publish at:
-
-```txt
-https://your-username.github.io/your-repository-name/
-```
-
 ## Future Updates
 
 - Replace placeholder photography cards with real images.
