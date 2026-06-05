@@ -2,14 +2,6 @@
 
 A whimsical personal portfolio for my side work, including YouTube videos, photography, websites, code projects, and creative experiments.
 
-## About
-
-I love being creative, and I want to merge my love for technology with my love for making visual, expressive concepts. I am a full-time student, still learning every day, and this portfolio is a place for my growth, experiments, videos, photography, websites, and code projects to live together.
-
-My favorite quote to live by is:
-
-> "Everything is a win when the goal is to experience."
-
 ## Built With
 
 - HTML
